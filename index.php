@@ -5,7 +5,8 @@
     </head>
     <body>
         <?php
-            echo 'bonjour';
+            echo 'bonjour <br>';  
+            echo 'salut';
         ?>
     </body>
 </html>
